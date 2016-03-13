@@ -1,6 +1,6 @@
 {
   "name": "hyperion-client",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Hyperion Client for AmbiLight-clone Hyperion, using JSON websocket",
   "main": "index.js",
   "scripts": {
